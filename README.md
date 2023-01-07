@@ -1,2 +1,2 @@
 # REST-API
-Testing and experimenting with backend crud operations with mongoose and mongodb.
+REST-API for backend CRUD operations using NodeJS. Developed in December 2020
